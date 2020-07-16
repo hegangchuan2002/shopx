@@ -81,11 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-<<<<<<< HEAD
 		    {{env('APP_ENV')}}
-=======
-                    {{env('APP_ENV')}}
->>>>>>> 883f123d400af94df378bfc94a253c7ddcc599aa
                 </div>
 
                 <div class="links">
